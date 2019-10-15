@@ -5,4 +5,4 @@ The left wall is imposed with the Engquist-Majda absorbing boundary condition (f
 
 Feel free to use and contribute.
 
-Created by: Tuan Anh Dao
+Created by: Tuan Anh Dao (tuananh.dao@it.uu.se)
