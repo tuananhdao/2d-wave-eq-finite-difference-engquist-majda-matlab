@@ -7,4 +7,4 @@ Feel free to use and contribute.
 
 Created by: Tuan Anh Dao (tuananh.dao@it.uu.se)
 
-![Derivation of the first approximation](https://tuananhdao.github.com/images/engquist-majda-derivation.jpg)
+![Derivation of the first approximation](https://tuananhdao.github.com/engquist-majda-derivation.jpg)
